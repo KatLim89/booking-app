@@ -97,6 +97,13 @@ export default function AuthPage() {
             >
               <i className="bi bi-google" /> Sign in with Google
             </Button>
+            <Button
+              className="rounded-pill"
+              variant="outline-secondary"
+              disabled
+            >
+              <i className="bi bi-facebook" /> Sign in with Facebook
+            </Button>
 
             <p style={{ textAlign: "center" }}>or</p>
 
