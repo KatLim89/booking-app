@@ -90,18 +90,10 @@ export default function AuthPage() {
             >
               Sign In
             </Button>
-            <Button
-              className="rounded-pill"
-              variant="outline-secondary"
-              disabled
-            >
+            <Button className="rounded-pill" variant="warning" disabled>
               <i className="bi bi-google" /> Sign in with Google
             </Button>
-            <Button
-              className="rounded-pill"
-              variant="outline-secondary"
-              disabled
-            >
+            <Button className="rounded-pill" variant="warning" disabled>
               <i className="bi bi-facebook" /> Sign in with Facebook
             </Button>
 
