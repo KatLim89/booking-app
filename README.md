@@ -34,3 +34,5 @@ Features:
 - Booking Modal: clicking on the "Book A Room" button will trigger the Booking Modal.
 - Edit booking Modal: clicking on the "Edit booking" button in the booking section will trigger another Modal. The date and time inputs are disabled.
 - Creating and deleting a booking will cause the page to automatically reload itself without manually refreshing the page. A Spinner will appear while the page is loading.
+
+IMPORTANT NOTICE: if you're making multiple bookings, please manually refresh the page to reload the Booking Modal. It still has minor reload/refresh issues, so this is one solution.
