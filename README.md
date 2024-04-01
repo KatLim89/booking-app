@@ -28,7 +28,7 @@ Tools used:
 
 Features:
 
-- Authentication Page: Google login is currently disabled. To access Admin page, use "admin@honey.com" as username & "admin" as password.
+- Authentication Page: Google login is currently disabled. To access Admin page, use "admin@honey.com" as username & "admin123" as password.
 - Admin page: there is no checkbox to select all since the Admin is only supposed to select incomplete entries.
 - User main page: Sidebar buttons are non-functional, except for booking & sign-out button. Header has 2 Accordions for Terms & Conditions and Terms of Use. All bookings will show up under the header section.
 - Booking Modal: clicking on the "Book A Room" button will trigger the Booking Modal.
